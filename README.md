@@ -7,7 +7,7 @@
 
   <p>
     <a href="#gen-ai">Configurations</a> •
-    <a href="#other-topics">Installation</a> •    
+    <a href="#other-topics">Others</a> •    
     <a href="#contributing">Contributing</a> •
     <a href="#license">License</a>
   </p>
@@ -24,9 +24,24 @@
 
 | Category  | Link  | Description  |
 |:----------|:----------|:----------|
+| LLM Basics | [https://goyalpramod.github.io/blogs/Transformers_laid_out/](https://goyalpramod.github.io/blogs/Transformers_laid_out/) | Transformers explained (must read!) |
+| LLM Basics | [https://youtu.be/Axd50ew4pco](https://youtu.be/Axd50ew4pco) | A short 4-minute video on CPU Vs GPU |
+| LLM Basics | [https://x.com/Hesamation/status/1875376552374104300](https://x.com/Hesamation/status/1875376552374104300) | Temperature and LLM sampling process visualized in Excel |
+| LLM Basics | [https://arxiv.org/pdf/2401.02038](https://arxiv.org/pdf/2401.02038) | Paper: Understanding LLMs: A Comprehensive Overview from Training to Inference|
+| LLM Basics | [https://x.com/akshay_pachaar/status/1873345735250641173](https://x.com/akshay_pachaar/status/1873345735250641173) | What are Mixture of Experts (MoE)|
+| LLM Basics | [https://x.com/Hesamation/status/1872050437312147499](https://x.com/Hesamation/status/1872050437312147499), [https://www.reddit.com/r/LocalLLaMA/comments/1greuto/gpu_inference_vram_calc_for_qwen25coder_32b_need/?share_id=REeWiQyKW3jH3CD-3YSj9&utm_content=1&utm_medium=ios_app&utm_name=ioscss&utm_source=share&utm_term=1](https://www.reddit.com/r/LocalLLaMA/comments/1greuto/gpu_inference_vram_calc_for_qwen25coder_32b_need/?share_id=REeWiQyKW3jH3CD-3YSj9&utm_content=1&utm_medium=ios_app&utm_name=ioscss&utm_source=share&utm_term=1) | Calculating GPU memory for serving LLMs|
+| LLM Basics | [https://stackoverflow.blog/2023/11/09/an-intuitive-introduction-to-text-embeddings/](https://stackoverflow.blog/2023/11/09/an-intuitive-introduction-to-text-embeddings/) | Introduction to text embeddings|
 | Prompt engineering | [https://x.com/tom_doerr/status/1875301168475467804](https://x.com/tom_doerr/status/1875301168475467804) | Ask `Claude` to write prompt for good code generation |
-| Agents | [https://www.kaggle.com/whitepaper-agents](https://www.kaggle.com/whitepaper-agents) | Google's whitepaper on Agents |
 | RAG | [https://x.com/akshay_pachaar/status/1875520939536142656](https://x.com/akshay_pachaar/status/1875520939536142656) | Traditional RAG Vs Graph RAG |
+| RAG | [https://www.dailydoseofds.com/p/traditional-rag-vs-hyde/](https://www.dailydoseofds.com/p/traditional-rag-vs-hyde/) | Traditional RAG Vs HyDE |
+| RAG | [https://www.theunwindai.com/p/build-a-corrective-rag-agent](https://www.theunwindai.com/p/build-a-corrective-rag-agent) | Build a corrective RAG application |
+| Agents | [https://www.kaggle.com/whitepaper-agents](https://www.kaggle.com/whitepaper-agents) | Google's whitepaper on Agents |
+| Apps | [https://bi.new/](https://bi.new/) | Build live BI dashboards using Gen AI |
+| Apps | [https://github.com/patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | Code samples for RAG, Agents and everything LLM related |
+| Apps | [https://github.com/cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) | Turn any code based into a text ingest of its code |
+| Apps | [https://github.com/browser-use/browser-use](https://github.com/browser-use/browser-use) | Make websites accessible to AI agents |
+| Apps | [https://www.linkedin.com/blog/engineering/ai/practical-text-to-sql-for-data-analytics](https://www.linkedin.com/blog/engineering/ai/practical-text-to-sql-for-data-analytics)| How LinkedIn built text-to-sql for data analytics|
+| Apps | [https://x.com/sharifshameem/status/1872880360922726667](https://x.com/sharifshameem/status/1872880360922726667) | A vibe based book search engine app built with Claude |
 
 
 
@@ -35,6 +50,8 @@
 | Category  | Link  | Description  |
 |:----------|:----------|:----------|
 | Git | [https://x.com/ChShersh/status/1875495972593131561](https://x.com/ChShersh/status/1875495972593131561) | A very short list of useful `git` commands |
+| Python | [https://www.dailydoseofds.com/p/pandas-vs-fireducks-performance-comparison/](https://www.dailydoseofds.com/p/pandas-vs-fireducks-performance-comparison/) | Pands Vs Fireducks |
+
 
 
 
