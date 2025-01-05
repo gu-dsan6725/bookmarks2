@@ -22,6 +22,8 @@
 
 ## Gen-AI
 
+### LLM Basics
+
 | Category  | Link  | Description  |
 |:----------|:----------|:----------|
 | LLM Basics | [https://goyalpramod.github.io/blogs/Transformers_laid_out/](https://goyalpramod.github.io/blogs/Transformers_laid_out/) | Transformers explained (must read!) |
@@ -31,11 +33,32 @@
 | LLM Basics | [https://x.com/akshay_pachaar/status/1873345735250641173](https://x.com/akshay_pachaar/status/1873345735250641173) | What are Mixture of Experts (MoE)|
 | LLM Basics | [https://x.com/Hesamation/status/1872050437312147499](https://x.com/Hesamation/status/1872050437312147499) | Calculating GPU memory for serving LLMs|
 | LLM Basics | [https://stackoverflow.blog/2023/11/09/an-intuitive-introduction-to-text-embeddings/](https://stackoverflow.blog/2023/11/09/an-intuitive-introduction-to-text-embeddings/) | Introduction to text embeddings|
+
+
+### Prompt engineering
+
+| Category  | Link  | Description  |
+|:----------|:----------|:----------|
 | Prompt engineering | [https://x.com/tom_doerr/status/1875301168475467804](https://x.com/tom_doerr/status/1875301168475467804) | Ask `Claude` to write prompt for good code generation |
+
+### RAG
+
+| Category  | Link  | Description  |
+|:----------|:----------|:----------|
 | RAG | [https://x.com/akshay_pachaar/status/1875520939536142656](https://x.com/akshay_pachaar/status/1875520939536142656) | Traditional RAG Vs Graph RAG |
 | RAG | [https://www.dailydoseofds.com/p/traditional-rag-vs-hyde/](https://www.dailydoseofds.com/p/traditional-rag-vs-hyde/) | Traditional RAG Vs HyDE |
 | RAG | [https://www.theunwindai.com/p/build-a-corrective-rag-agent](https://www.theunwindai.com/p/build-a-corrective-rag-agent) | Build a corrective RAG application |
+
+
+### Agents
+| Category  | Link  | Description  |
+|:----------|:----------|:----------|
 | Agents | [https://www.kaggle.com/whitepaper-agents](https://www.kaggle.com/whitepaper-agents) | Google's whitepaper on Agents |
+
+### Apps
+
+| Category  | Link  | Description  |
+|:----------|:----------|:----------|
 | Apps | [https://bi.new/](https://bi.new/) | Build live BI dashboards using Gen AI |
 | Apps | [https://github.com/patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | Code samples for RAG, Agents and everything LLM related |
 | Apps | [https://github.com/cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) | Turn any code based into a text ingest of its code |
