@@ -40,6 +40,10 @@
 | Category  | Link  | Description  |
 |:----------|:----------|:----------|
 | Prompt engineering | [https://x.com/tom_doerr/status/1875301168475467804](https://x.com/tom_doerr/status/1875301168475467804) | Ask `Claude` to write prompt for good code generation |
+| Prompt engineering | [https://github.com/anthropics/prompt-eng-interactive-tutorial/tree/master](https://github.com/anthropics/prompt-eng-interactive-tutorial/tree/master) | Prompt engineering best practices for Anthropic Claude |
+| Prompt engineering | [https://www.llama.com/docs/how-to-guides/prompting/](https://www.llama.com/docs/how-to-guides/prompting/) | Prompt engineering best practices for Meta Llama3 |
+| Prompt engineering | [https://docs.aws.amazon.com/nova/latest/userguide/prompting.html](https://docs.aws.amazon.com/nova/latest/userguide/prompting.html) | Prompt engineering best practices for Amazon Nova |
+
 
 ### RAG
 
