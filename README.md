@@ -17,7 +17,7 @@
 
 1. [Gen-AI](#gen-ai)
 1. [Others](#others)
-1. [Contributing](#customization)
+1. [Contributing](#contributing)
 1. [License](#license)
 
 ## Gen-AI
