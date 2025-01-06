@@ -6,7 +6,7 @@
   </p>
 
   <p>
-    <a href="#gen-ai">Configurations</a> •
+    <a href="#gen-ai">Gen-AI</a> •
     <a href="#other-topics">Others</a> •    
     <a href="#contributing">Contributing</a> •
     <a href="#license">License</a>
