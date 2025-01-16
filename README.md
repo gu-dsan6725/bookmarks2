@@ -58,6 +58,7 @@
 | Category  | Link  | Description  |
 |:----------|:----------|:----------|
 | Agents | [https://www.kaggle.com/whitepaper-agents](https://www.kaggle.com/whitepaper-agents) | Google's whitepaper on Agents |
+| Agents | [[https://www.kaggle.com/whitepaper-agents](https://medium.com/@goutham_nivass/agentic-workflow-amazon-bedrock-and-crewai-3a1a0597a2ce)]([https://www.kaggle.com/whitepaper-agents](https://medium.com/@goutham_nivass/agentic-workflow-amazon-bedrock-and-crewai-3a1a0597a2ce)) | Agentic Workflow: Amazon Bedrock and CrewAI |
 
 ### Guardrails
 
