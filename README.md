@@ -55,7 +55,8 @@
 | RAG | [https://www.dailydoseofds.com/p/traditional-rag-vs-hyde/](https://www.dailydoseofds.com/p/traditional-rag-vs-hyde/) | Traditional RAG Vs HyDE |
 | RAG | [https://www.theunwindai.com/p/build-a-corrective-rag-agent](https://www.theunwindai.com/p/build-a-corrective-rag-agent) | Build a corrective RAG application |
 | RAG | [https://x.com/Aurimas_Gr/status/1879148810158452777](https://x.com/Aurimas_Gr/status/1879148810158452777) | Challenges and components of production-grade RAG AI systems |
-
+| RAG | [https://x.com/akshay_pachaar/status/1879154648327811134](https://x.com/akshay_pachaar/status/1879154648327811134) | Building a multi-tenant RAG app with easy integrations |
+| RAG | [https://x.com/akshay_pachaar/status/1878916141122462139](https://x.com/akshay_pachaar/status/1878916141122462139) | MemoRAG enhances RAG with long-term memory capabilities |
 
 ### Agents
 | Category  | Link  | Description  |
@@ -80,6 +81,7 @@
 | Category  | Link  | Description  |
 |:----------|:----------|:----------|
 | Fine-tuning | [https://docs.unsloth.ai/basics/tutorial-how-to-finetune-llama-3-and-use-in-ollama](https://docs.unsloth.ai/basics/tutorial-how-to-finetune-llama-3-and-use-in-ollama)| Fine-tuning LLMs with Unsloth.ai |
+| Fine-tuning | [https://www.kaggle.com/code/iamleonie/fine-tuning-gemma-2-jpn-for-yomigana-with-lora](https://www.kaggle.com/code/iamleonie/fine-tuning-gemma-2-jpn-for-yomigana-with-lora)| Fine-tuning Gemma 2 JPN for Yomigana using LoRA |
 
 ### Responsible AI
 
