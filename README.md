@@ -33,6 +33,8 @@
 | LLM Basics | [https://x.com/akshay_pachaar/status/1873345735250641173](https://x.com/akshay_pachaar/status/1873345735250641173) | What are Mixture of Experts (MoE)|
 | LLM Basics | [https://x.com/Hesamation/status/1872050437312147499](https://x.com/Hesamation/status/1872050437312147499) | Calculating GPU memory for serving LLMs|
 | LLM Basics | [https://stackoverflow.blog/2023/11/09/an-intuitive-introduction-to-text-embeddings/](https://stackoverflow.blog/2023/11/09/an-intuitive-introduction-to-text-embeddings/) | Introduction to text embeddings|
+| LLM Basics | [https://arxiv.org/abs/2501.00663](https://arxiv.org/abs/2501.00663) | Introduction to text embeddings|
+
 
 
 ### Prompt engineering
