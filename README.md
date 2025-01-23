@@ -33,7 +33,7 @@
 | LLM Basics | [https://x.com/akshay_pachaar/status/1873345735250641173](https://x.com/akshay_pachaar/status/1873345735250641173) | What are Mixture of Experts (MoE)|
 | LLM Basics | [https://x.com/Hesamation/status/1872050437312147499](https://x.com/Hesamation/status/1872050437312147499) | Calculating GPU memory for serving LLMs|
 | LLM Basics | [https://stackoverflow.blog/2023/11/09/an-intuitive-introduction-to-text-embeddings/](https://stackoverflow.blog/2023/11/09/an-intuitive-introduction-to-text-embeddings/) | Introduction to text embeddings|
-| LLM Basics | [https://arxiv.org/abs/2501.00663](https://arxiv.org/abs/2501.00663) | Introduction to text embeddings|
+| LLM Basics | [https://arxiv.org/abs/2501.00663](https://arxiv.org/abs/2501.00663) | Neural memory module for long-term sequence modeling|
 
 
 
@@ -54,6 +54,7 @@
 | RAG | [https://x.com/akshay_pachaar/status/1875520939536142656](https://x.com/akshay_pachaar/status/1875520939536142656) | Traditional RAG Vs Graph RAG |
 | RAG | [https://www.dailydoseofds.com/p/traditional-rag-vs-hyde/](https://www.dailydoseofds.com/p/traditional-rag-vs-hyde/) | Traditional RAG Vs HyDE |
 | RAG | [https://www.theunwindai.com/p/build-a-corrective-rag-agent](https://www.theunwindai.com/p/build-a-corrective-rag-agent) | Build a corrective RAG application |
+| RAG | [https://x.com/Aurimas_Gr/status/1879148810158452777](https://x.com/Aurimas_Gr/status/1879148810158452777) | Challenges and components of production-grade RAG AI systems |
 
 
 ### Agents
@@ -66,7 +67,7 @@
 
 | Category  | Link  | Description  |
 |:----------|:----------|:----------|
-| Guardrails | TBD| TBD |
+| Guardrails | [https://magazine.sebastianraschka.com/p/ai-research-papers-2024-part-2](https://magazine.sebastianraschka.com/p/ai-research-papers-2024-part-2)| Summary of influential AI research papers from 2024 |
 
 ### Benchmarking
 
@@ -96,6 +97,7 @@
 | Apps | [https://github.com/browser-use/browser-use](https://github.com/browser-use/browser-use) | Make websites accessible to AI agents |
 | Apps | [https://www.linkedin.com/blog/engineering/ai/practical-text-to-sql-for-data-analytics](https://www.linkedin.com/blog/engineering/ai/practical-text-to-sql-for-data-analytics)| How LinkedIn built text-to-sql for data analytics|
 | Apps | [https://x.com/sharifshameem/status/1872880360922726667](https://x.com/sharifshameem/status/1872880360922726667) | A vibe based book search engine app built with Claude |
+| Apps | [https://github.com/egoist/sitefetch](https://github.com/egoist/sitefetch) | Tool for fetching and saving website content as text |
 
 
 
