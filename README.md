@@ -57,24 +57,28 @@
 | RAG | [https://x.com/Aurimas_Gr/status/1879148810158452777](https://x.com/Aurimas_Gr/status/1879148810158452777) | Challenges and components of production-grade RAG AI systems |
 | RAG | [https://x.com/akshay_pachaar/status/1879154648327811134](https://x.com/akshay_pachaar/status/1879154648327811134) | Building a multi-tenant RAG app with easy integrations |
 | RAG | [https://x.com/akshay_pachaar/status/1878916141122462139](https://x.com/akshay_pachaar/status/1878916141122462139) | MemoRAG enhances RAG with long-term memory capabilities |
+| RAG | [https://arxiv.org/pdf/2412.15605v1](https://arxiv.org/pdf/2412.15605v1) | Cache-augmented generation (CAG) as an alternative to RAG |
 
 ### Agents
 | Category  | Link  | Description  |
 |:----------|:----------|:----------|
 | Agents | [https://www.kaggle.com/whitepaper-agents](https://www.kaggle.com/whitepaper-agents) | Google's whitepaper on Agents |
 | Agents | [https://medium.com/@goutham_nivass/agentic-workflow-amazon-bedrock-and-crewai-3a1a0597a2ce](https://medium.com/@goutham_nivass/agentic-workflow-amazon-bedrock-and-crewai-3a1a0597a2ce) | Agentic Workflow: Amazon Bedrock and CrewAI |
+| Agents | [https://github.com/SamuelSchmidgall/AgentLaboratory](https://github.com/SamuelSchmidgall/AgentLaboratory) | Autonomous LLM-driven research workflow for scientific projects |
+| Agents | [https://github.com/inferablehq](https://github.com/inferablehq) | Open-source platform for building agentic automations |
+
 
 ### Guardrails
 
 | Category  | Link  | Description  |
 |:----------|:----------|:----------|
-| Guardrails | [https://magazine.sebastianraschka.com/p/ai-research-papers-2024-part-2](https://magazine.sebastianraschka.com/p/ai-research-papers-2024-part-2)| Summary of influential AI research papers from 2024 |
+| Guardrails | TBD | TBD |
 
 ### Benchmarking
 
 | Category  | Link  | Description  |
 |:----------|:----------|:----------|
-| Benchmarking | TBD| TBD |
+| Benchmarking | [https://magazine.sebastianraschka.com/p/ai-research-papers-2024-part-2](https://magazine.sebastianraschka.com/p/ai-research-papers-2024-part-2)| Summary of influential AI research papers from 2024 |
 
 ### Fine-tuning
 
@@ -82,6 +86,7 @@
 |:----------|:----------|:----------|
 | Fine-tuning | [https://docs.unsloth.ai/basics/tutorial-how-to-finetune-llama-3-and-use-in-ollama](https://docs.unsloth.ai/basics/tutorial-how-to-finetune-llama-3-and-use-in-ollama)| Fine-tuning LLMs with Unsloth.ai |
 | Fine-tuning | [https://www.kaggle.com/code/iamleonie/fine-tuning-gemma-2-jpn-for-yomigana-with-lora](https://www.kaggle.com/code/iamleonie/fine-tuning-gemma-2-jpn-for-yomigana-with-lora)| Fine-tuning Gemma 2 JPN for Yomigana using LoRA |
+| Fine-tuning | [https://www.youtube.com/watch?v=b80by3Xk_A8](https://www.youtube.com/watch?v=b80by3Xk_A8)| Stanford’s Hugging Face Transformers fine-tuning course |
 
 ### Responsible AI
 
@@ -100,6 +105,11 @@
 | Apps | [https://www.linkedin.com/blog/engineering/ai/practical-text-to-sql-for-data-analytics](https://www.linkedin.com/blog/engineering/ai/practical-text-to-sql-for-data-analytics)| How LinkedIn built text-to-sql for data analytics|
 | Apps | [https://x.com/sharifshameem/status/1872880360922726667](https://x.com/sharifshameem/status/1872880360922726667) | A vibe based book search engine app built with Claude |
 | Apps | [https://github.com/egoist/sitefetch](https://github.com/egoist/sitefetch) | Tool for fetching and saving website content as text |
+| Apps | [https://data-people-group.github.io/blogs/2025/01/13/docwrangler/](https://data-people-group.github.io/blogs/2025/01/13/docwrangler/) | Interactive LLM-powered data processing with DocWrangler |
+| Apps | [https://github.com/CatchTheTornado/text-extract-api](https://github.com/CatchTheTornado/text-extract-api) | IOCR API for document conversion to text/JSON |
+| Apps | [https://github.com/docsifyjs/docsify](https://github.com/docsifyjs/docsify) | Lightweight documentation site generator using Markdown |
+| Apps | [https://github.com/nanbingxyz/5ire](https://github.com/nanbingxyz/5ire) | Cross-platform AI assistant with local knowledge base support |
+
 
 
 
