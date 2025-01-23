@@ -34,6 +34,7 @@
 | LLM Basics | [https://x.com/Hesamation/status/1872050437312147499](https://x.com/Hesamation/status/1872050437312147499) | Calculating GPU memory for serving LLMs|
 | LLM Basics | [https://stackoverflow.blog/2023/11/09/an-intuitive-introduction-to-text-embeddings/](https://stackoverflow.blog/2023/11/09/an-intuitive-introduction-to-text-embeddings/) | Introduction to text embeddings|
 | LLM Basics | [https://arxiv.org/abs/2501.00663](https://arxiv.org/abs/2501.00663) | Neural memory module for long-term sequence modeling|
+| LLM Basics | [https://x.com/Aurimas_Gr/status/1876635530302992875](https://x.com/Aurimas_Gr/status/1876635530302992875) | Neural memory module for long-term sequence modeling|
 
 
 
@@ -66,6 +67,8 @@
 | Agents | [https://medium.com/@goutham_nivass/agentic-workflow-amazon-bedrock-and-crewai-3a1a0597a2ce](https://medium.com/@goutham_nivass/agentic-workflow-amazon-bedrock-and-crewai-3a1a0597a2ce) | Agentic Workflow: Amazon Bedrock and CrewAI |
 | Agents | [https://github.com/SamuelSchmidgall/AgentLaboratory](https://github.com/SamuelSchmidgall/AgentLaboratory) | Autonomous LLM-driven research workflow for scientific projects |
 | Agents | [https://github.com/inferablehq](https://github.com/inferablehq) | Open-source platform for building agentic automations |
+| Agents | [https://www.newsletter.swirlai.com/p/building-ai-agents-from-scratch-part](https://www.newsletter.swirlai.com/p/building-ai-agents-from-scratch-part) | Guide to building AI agents from scratch |
+| Agents | [https://huyenchip.com//2025/01/07/agents.html](https://huyenchip.com//2025/01/07/agents.html) | Overview of intelligent AI agents, tools, and planning |
 
 
 ### Guardrails
@@ -109,6 +112,8 @@
 | Apps | [https://github.com/CatchTheTornado/text-extract-api](https://github.com/CatchTheTornado/text-extract-api) | IOCR API for document conversion to text/JSON |
 | Apps | [https://github.com/docsifyjs/docsify](https://github.com/docsifyjs/docsify) | Lightweight documentation site generator using Markdown |
 | Apps | [https://github.com/nanbingxyz/5ire](https://github.com/nanbingxyz/5ire) | Cross-platform AI assistant with local knowledge base support |
+| Apps | [https://github.com/BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) | Crawl a site to generate knowledge files |
+
 
 
 
