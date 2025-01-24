@@ -52,6 +52,10 @@
 
 | Category  | Link  | Description  |
 |:----------|:----------|:----------|
+| RAG | [https://arxiv.org/pdf/2005.11401](https://arxiv.org/pdf/2005.11401) | Paper: Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks |
+| RAG | [https://arxiv.org/pdf/2412.15605v1](https://arxiv.org/pdf/2412.15605v1) | Paper: Cache-augmented generation (CAG) as an alternative to RAG |
+| RAG | [https://arxiv.org/pdf/2401.15884](https://arxiv.org/pdf/2401.15884) | Paper: Corrective Retrieval Augmented Generation |
+| RAG | [https://arxiv.org/html/2409.13731v3](https://arxiv.org/html/2409.13731v3) | Paper: KAG: Boosting LLMs in Professional Domains via Knowledge Augmented Generation |
 | RAG | [https://x.com/akshay_pachaar/status/1875520939536142656](https://x.com/akshay_pachaar/status/1875520939536142656) | Traditional RAG Vs Graph RAG |
 | RAG | [https://www.dailydoseofds.com/p/traditional-rag-vs-hyde/](https://www.dailydoseofds.com/p/traditional-rag-vs-hyde/) | Traditional RAG Vs HyDE |
 | RAG | [https://www.theunwindai.com/p/build-a-corrective-rag-agent](https://www.theunwindai.com/p/build-a-corrective-rag-agent) | Build a corrective RAG application |
