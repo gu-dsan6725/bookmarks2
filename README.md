@@ -135,7 +135,7 @@
 
 ## Contributing
 
-Submit a PR to get any link you would like to get included into this repo. Follow these instructions while making contributions:
+Fork this repo and submit a PR to get any link you would like to get included into this repo. Follow these instructions while making contributions:
 
 1. Add your contribution as a line in the markdown table, make sure to view the rendered README to confirm that the table formatting is not broken.
 1. Make sure that you put an appropriate value in the `Cateogry` field and useful information in the `Description` field (the description should not exceed 10-words).
