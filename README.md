@@ -46,7 +46,7 @@
 | Prompt engineering | [https://github.com/anthropics/prompt-eng-interactive-tutorial/tree/master](https://github.com/anthropics/prompt-eng-interactive-tutorial/tree/master) | Prompt engineering best practices for Anthropic Claude |
 | Prompt engineering | [https://www.llama.com/docs/how-to-guides/prompting/](https://www.llama.com/docs/how-to-guides/prompting/) | Prompt engineering best practices for Meta Llama3 |
 | Prompt engineering | [https://docs.aws.amazon.com/nova/latest/userguide/prompting.html](https://docs.aws.amazon.com/nova/latest/userguide/prompting.html) | Prompt engineering best practices for Amazon Nova |
-
+| Prompt engineering | [https://github.com/dair-ai/Prompt-Engineering-Guide?tab=readme-ov-file](https://github.com/dair-ai/Prompt-Engineering-Guide?tab=readme-ov-file) | Prompt engineering guide |
 
 ### RAG
 
@@ -63,6 +63,7 @@
 | RAG | [https://x.com/akshay_pachaar/status/1879154648327811134](https://x.com/akshay_pachaar/status/1879154648327811134) | Building a multi-tenant RAG app with easy integrations |
 | RAG | [https://x.com/akshay_pachaar/status/1878916141122462139](https://x.com/akshay_pachaar/status/1878916141122462139) | MemoRAG enhances RAG with long-term memory capabilities |
 | RAG | [https://arxiv.org/pdf/2412.15605v1](https://arxiv.org/pdf/2412.15605v1) | Cache-augmented generation (CAG) as an alternative to RAG |
+| RAG | [https://www.anthropic.com/news/contextual-retrieval](https://www.anthropic.com/news/contextual-retrieval) | Introducing Contextual Retrieval |
 
 ### Agents
 | Category  | Link  | Description  |
