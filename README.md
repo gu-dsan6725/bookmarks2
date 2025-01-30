@@ -46,7 +46,9 @@
 | Prompt engineering | [https://github.com/anthropics/prompt-eng-interactive-tutorial/tree/master](https://github.com/anthropics/prompt-eng-interactive-tutorial/tree/master) | Prompt engineering best practices for Anthropic Claude |
 | Prompt engineering | [https://www.llama.com/docs/how-to-guides/prompting/](https://www.llama.com/docs/how-to-guides/prompting/) | Prompt engineering best practices for Meta Llama3 |
 | Prompt engineering | [https://docs.aws.amazon.com/nova/latest/userguide/prompting.html](https://docs.aws.amazon.com/nova/latest/userguide/prompting.html) | Prompt engineering best practices for Amazon Nova |
+| Prompt engineering | [https://ibm.github.io/watsonx-prompt-lab/lab-1/](https://ibm.github.io/watsonx-prompt-lab/lab-1/) | Prompt engineering best practices for watsonx.ai |
 | Prompt engineering | [https://github.com/dair-ai/Prompt-Engineering-Guide?tab=readme-ov-file](https://github.com/dair-ai/Prompt-Engineering-Guide?tab=readme-ov-file) | Prompt engineering guide |
+
 
 ### RAG
 
