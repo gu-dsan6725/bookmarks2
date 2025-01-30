@@ -65,6 +65,7 @@
 | RAG | [https://x.com/akshay_pachaar/status/1879154648327811134](https://x.com/akshay_pachaar/status/1879154648327811134) | Building a multi-tenant RAG app with easy integrations |
 | RAG | [https://x.com/akshay_pachaar/status/1878916141122462139](https://x.com/akshay_pachaar/status/1878916141122462139) | MemoRAG enhances RAG with long-term memory capabilities |
 | RAG | [https://arxiv.org/pdf/2412.15605v1](https://arxiv.org/pdf/2412.15605v1) | Cache-augmented generation (CAG) as an alternative to RAG |
+| RAG | [https://div.beehiiv.com/](https://div.beehiiv.com/) | Great Blog Series on RAG, Agents, and Other Cutting-Edge Gen-AI Topics |
 | RAG | [https://www.anthropic.com/news/contextual-retrieval](https://www.anthropic.com/news/contextual-retrieval) | Introducing Contextual Retrieval |
 
 ### Agents
