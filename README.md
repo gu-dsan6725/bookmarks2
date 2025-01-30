@@ -31,11 +31,11 @@
 | LLM Basics | [https://x.com/Hesamation/status/1875376552374104300](https://x.com/Hesamation/status/1875376552374104300) | Temperature and LLM sampling process visualized in Excel |
 | LLM Basics | [https://arxiv.org/pdf/2401.02038](https://arxiv.org/pdf/2401.02038) | Paper: Understanding LLMs: A Comprehensive Overview from Training to Inference|
 | LLM Basics | [https://x.com/akshay_pachaar/status/1873345735250641173](https://x.com/akshay_pachaar/status/1873345735250641173) | What are Mixture of Experts (MoE)|
+| LLM Basics | [https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mixture-of-experts](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mixture-of-experts) | Visual introduction to Mixture-of-Experts|
 | LLM Basics | [https://x.com/Hesamation/status/1872050437312147499](https://x.com/Hesamation/status/1872050437312147499) | Calculating GPU memory for serving LLMs|
 | LLM Basics | [https://stackoverflow.blog/2023/11/09/an-intuitive-introduction-to-text-embeddings/](https://stackoverflow.blog/2023/11/09/an-intuitive-introduction-to-text-embeddings/) | Introduction to text embeddings|
 | LLM Basics | [https://arxiv.org/abs/2501.00663](https://arxiv.org/abs/2501.00663) | Neural memory module for long-term sequence modeling|
 | LLM Basics | [https://x.com/Aurimas_Gr/status/1876635530302992875](https://x.com/Aurimas_Gr/status/1876635530302992875) | Neural memory module for long-term sequence modeling|
-
 
 
 ### Prompt engineering
