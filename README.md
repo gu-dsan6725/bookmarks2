@@ -121,7 +121,8 @@
 | Apps | [https://github.com/docsifyjs/docsify](https://github.com/docsifyjs/docsify) | Lightweight documentation site generator using Markdown |
 | Apps | [https://github.com/nanbingxyz/5ire](https://github.com/nanbingxyz/5ire) | Cross-platform AI assistant with local knowledge base support |
 | Apps | [https://github.com/BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) | Crawl a site to generate knowledge files |
-
+| Apps | [https://github.com/open-webui/open-webui](https://github.com/open-webui/open-webui) | Open-source web UI for LLM, Ollama |
+| Apps | [https://github.com/comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) | diffusion model GUI, api with a nodes interface |
 
 
 
