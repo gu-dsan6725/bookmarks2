@@ -105,9 +105,11 @@
 | Fine-tuning | [https://docs.unsloth.ai/basics/tutorial-how-to-finetune-llama-3-and-use-in-ollama](https://docs.unsloth.ai/basics/tutorial-how-to-finetune-llama-3-and-use-in-ollama)| Fine-tuning LLMs with Unsloth.ai |
 | Fine-tuning | [https://www.kaggle.com/code/iamleonie/fine-tuning-gemma-2-jpn-for-yomigana-with-lora](https://www.kaggle.com/code/iamleonie/fine-tuning-gemma-2-jpn-for-yomigana-with-lora)| Fine-tuning Gemma 2 JPN for Yomigana using LoRA |
 | Fine-tuning | [https://www.youtube.com/watch?v=b80by3Xk_A8](https://www.youtube.com/watch?v=b80by3Xk_A8)| Stanford’s Hugging Face Transformers fine-tuning course |
+| Fine-tuning | [https://www.sciencedirect.com/science/article/pii/S0950584924001289](https://www.sciencedirect.com/science/article/pii/S0950584924001289)| Automating Fine-tuning of LLM's using Prompt Engineering Techniques |
 | Fine-tuning | [https://arxiv.org/abs/2310.00035](https://arxiv.org/abs/2310.00035)| Usage of LoRA for LLM fine-tuning |
 | Fine-tuning | [https://arxiv.org/abs/2502.06807](https://arxiv.org/abs/2502.06807) | Large reasoning models: Generalized vs Domain-specific |
 | Fine-tuning | [https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Llama3.1_(8B)-GRPO.ipynb](https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Llama3.1_(8B)-GRPO.ipynb) | Using GRPO RL algorithm to train LLama-3.1 |
+
 
 
 ### Responsible AI
@@ -137,8 +139,6 @@
 | Apps | [https://github.com/open-webui/open-webui](https://github.com/open-webui/open-webui) | Open-source web UI for LLM, Ollama |
 | Apps | [https://github.com/comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) | diffusion model GUI, api with a nodes interface |
 | Apps | [https://link-springer-com.proxy.library.georgetown.edu/article/10.1007/s10639-024-12537-x](https://link-springer-com.proxy.library.georgetown.edu/article/10.1007/s10639-024-12537-x) | Using GPT to generate math word problems with difficulty levels |
-
-
 
 
 ## Others
