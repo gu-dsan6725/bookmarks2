@@ -36,6 +36,7 @@
 | LLM Basics | [https://stackoverflow.blog/2023/11/09/an-intuitive-introduction-to-text-embeddings/](https://stackoverflow.blog/2023/11/09/an-intuitive-introduction-to-text-embeddings/) | Introduction to text embeddings|
 | LLM Basics | [https://arxiv.org/abs/2501.00663](https://arxiv.org/abs/2501.00663) | Neural memory module for long-term sequence modeling|
 | LLM Basics | [https://x.com/Aurimas_Gr/status/1876635530302992875](https://x.com/Aurimas_Gr/status/1876635530302992875) | Neural memory module for long-term sequence modeling|
+| LLM Basics | [https://www.youtube.com/watch?v=h9Z4oGN89MU&t=663s](https://www.youtube.com/watch?v=h9Z4oGN89MU&t=663s) | Exploring GPU Architecture |
 
 
 ### Prompt engineering
@@ -48,12 +49,15 @@
 | Prompt engineering | [https://docs.aws.amazon.com/nova/latest/userguide/prompting.html](https://docs.aws.amazon.com/nova/latest/userguide/prompting.html) | Prompt engineering best practices for Amazon Nova |
 | Prompt engineering | [https://ibm.github.io/watsonx-prompt-lab/lab-1/](https://ibm.github.io/watsonx-prompt-lab/lab-1/) | Prompt engineering best practices for watsonx.ai |
 | Prompt engineering | [https://github.com/dair-ai/Prompt-Engineering-Guide?tab=readme-ov-file](https://github.com/dair-ai/Prompt-Engineering-Guide?tab=readme-ov-file) | Prompt engineering guide |
+| Prompt engineering | [https://medium.com/@fareedkhandev/prompt-engineering-complete-guide-2968776f0431](https://medium.com/@fareedkhandev/prompt-engineering-complete-guide-2968776f0431) | Alternative prompt engineering guide |
 
 
 ### RAG
 
 | Category  | Link  | Description  |
 |:----------|:----------|:----------|
+| RAG | [https://piotr-jurowiec.medium.com/retrieval-augmented-generation-in-business-applications-enhancing-efficiency-and-innovation-3c3886c88705](https://piotr-jurowiec.medium.com/retrieval-augmented-generation-in-business-applications-enhancing-efficiency-and-innovation-3c3886c88705) | Article: Retrieval-Augmented Generation in Business Applications |
+| RAG | [https://arxiv.org/abs/2404.17723](https://arxiv.org/abs/2404.17723) | Paper: A Recent Study on RAG in NLP |
 | RAG | [https://arxiv.org/pdf/2005.11401](https://arxiv.org/pdf/2005.11401) | Paper: Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks |
 | RAG | [https://arxiv.org/pdf/2412.15605v1](https://arxiv.org/pdf/2412.15605v1) | Paper: Cache-augmented generation (CAG) as an alternative to RAG |
 | RAG | [https://arxiv.org/pdf/2401.15884](https://arxiv.org/pdf/2401.15884) | Paper: Corrective Retrieval Augmented Generation |
@@ -68,6 +72,8 @@
 | RAG | [https://div.beehiiv.com/](https://div.beehiiv.com/) | Great Blog Series on RAG, Agents, and Other Cutting-Edge Gen-AI Topics |
 | RAG | [https://www.anthropic.com/news/contextual-retrieval](https://www.anthropic.com/news/contextual-retrieval) | Introducing Contextual Retrieval |
 | RAG | [https://aws.amazon.com/what-is/retrieval-augmented-generation/](https://aws.amazon.com/what-is/retrieval-augmented-generation/) | AWS Introduction to RAG |
+| RAG | [https://arxiv.org/pdf/2312.10997](https://arxiv.org/pdf/2312.10997) | Retrieval-Augmented Generation for Large Language Models: A Survey |
+
 
 ### Agents
 | Category  | Link  | Description  |
@@ -79,13 +85,15 @@
 | Agents | [https://www.newsletter.swirlai.com/p/building-ai-agents-from-scratch-part](https://www.newsletter.swirlai.com/p/building-ai-agents-from-scratch-part) | Guide to building AI agents from scratch |
 | Agents | [https://huyenchip.com//2025/01/07/agents.html](https://huyenchip.com//2025/01/07/agents.html) | Overview of intelligent AI agents, tools, and planning |
 | Agents | [https://medium.com/@thomas.latterner/ai-agents-what-are-they-50ced8323b9a](https://medium.com/@thomas.latterner/ai-agents-what-are-they-50ced8323b9a) | Overview of AI Agents |
+| Agents | [https://www.letta.com/blog/ai-agents-stack](https://www.letta.com/blog/ai-agents-stack) | The Agents Stack |
+| Agents | [https://www.mongodb.com/pt-br/library/resources/ai-agents?x=inokiP](https://www.mongodb.com/pt-br/library/resources/ai-agents?x=inokiP) | Demystifying AI Agents: A Guide for Beginners |
 
 
 ### Guardrails
 
 | Category  | Link  | Description  |
 |:----------|:----------|:----------|
-| Guardrails | TBD | TBD |
+| Guardrails | [https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-are-ai-guardrails](https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-are-ai-guardrails) | Overview of guardrails: definition, utility, implementation ideas, deployment |
 
 ### Benchmarking
 
@@ -100,12 +108,20 @@
 | Fine-tuning | [https://docs.unsloth.ai/basics/tutorial-how-to-finetune-llama-3-and-use-in-ollama](https://docs.unsloth.ai/basics/tutorial-how-to-finetune-llama-3-and-use-in-ollama)| Fine-tuning LLMs with Unsloth.ai |
 | Fine-tuning | [https://www.kaggle.com/code/iamleonie/fine-tuning-gemma-2-jpn-for-yomigana-with-lora](https://www.kaggle.com/code/iamleonie/fine-tuning-gemma-2-jpn-for-yomigana-with-lora)| Fine-tuning Gemma 2 JPN for Yomigana using LoRA |
 | Fine-tuning | [https://www.youtube.com/watch?v=b80by3Xk_A8](https://www.youtube.com/watch?v=b80by3Xk_A8)| Stanford’s Hugging Face Transformers fine-tuning course |
+| Fine-tuning | [https://www.sciencedirect.com/science/article/pii/S0950584924001289](https://www.sciencedirect.com/science/article/pii/S0950584924001289)| Automating Fine-tuning of LLM's using Prompt Engineering Techniques |
+| Fine-tuning | [https://arxiv.org/abs/2310.00035](https://arxiv.org/abs/2310.00035)| Usage of LoRA for LLM fine-tuning |
+| Fine-tuning | [https://arxiv.org/abs/2502.06807](https://arxiv.org/abs/2502.06807) | Large reasoning models: Generalized vs Domain-specific |
+| Fine-tuning | [https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Llama3.1_(8B)-GRPO.ipynb](https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Llama3.1_(8B)-GRPO.ipynb) | Using GRPO RL algorithm to train LLama-3.1 |
+
+
 
 ### Responsible AI
 
 | Category  | Link  | Description  |
 |:----------|:----------|:----------|
 | Responsible AI | [https://www.aisnakeoil.com/](https://www.aisnakeoil.com/)| Debunking AI hype |
+| Responsible AI | [https://learn.microsoft.com/en-us/azure/machine-learning/concept-responsible-ai](https://learn.microsoft.com/en-us/azure/machine-learning/concept-responsible-ai)| Overview of Microsoft's Responsible AI framework |
+| Responsible AI | [https://oecd.ai/en/ai-principles](https://oecd.ai/en/ai-principles)| OECD AI Principles |
 
 ### Apps
 
@@ -125,8 +141,7 @@
 | Apps | [https://github.com/BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) | Crawl a site to generate knowledge files |
 | Apps | [https://github.com/open-webui/open-webui](https://github.com/open-webui/open-webui) | Open-source web UI for LLM, Ollama |
 | Apps | [https://github.com/comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) | diffusion model GUI, api with a nodes interface |
-
-
+| Apps | [https://link-springer-com.proxy.library.georgetown.edu/article/10.1007/s10639-024-12537-x](https://link-springer-com.proxy.library.georgetown.edu/article/10.1007/s10639-024-12537-x) | Using GPT to generate math word problems with difficulty levels |
 
 
 ## Others
@@ -135,9 +150,13 @@
 |:----------|:----------|:----------|
 | Git | [https://x.com/ChShersh/status/1875495972593131561](https://x.com/ChShersh/status/1875495972593131561) | A very short list of useful `git` commands |
 | Python | [https://www.dailydoseofds.com/p/pandas-vs-fireducks-performance-comparison/](https://www.dailydoseofds.com/p/pandas-vs-fireducks-performance-comparison/) | Pands Vs Fireducks |
+| Deepseek | [https://github.com/deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) | Open-source AI code generation model |
 
 
-
+## Significant Papers in GenAI Pre-training and Fine-tuning
+| Paper  | Link  | Description  |
+|:----------|:----------|:----------|
+| Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation | https://arxiv.org/abs/2108.12409  https://github.com/ofirpress/attention_with_linear_biases.git | A training technique in Language Models to intensify their generalization ability |
 
 
 ## Contributing
