@@ -84,9 +84,11 @@
 | Agents | [https://github.com/inferablehq](https://github.com/inferablehq) | Open-source platform for building agentic automations |
 | Agents | [https://www.newsletter.swirlai.com/p/building-ai-agents-from-scratch-part](https://www.newsletter.swirlai.com/p/building-ai-agents-from-scratch-part) | Guide to building AI agents from scratch |
 | Agents | [https://huyenchip.com//2025/01/07/agents.html](https://huyenchip.com//2025/01/07/agents.html) | Overview of intelligent AI agents, tools, and planning |
+| Agents | [https://github.com/huggingface/smolagents](https://github.com/huggingface/smolagents) | Build agents with a simple framework with the logic for agents fitting in ~thousand lines of code |
 | Agents | [https://medium.com/@thomas.latterner/ai-agents-what-are-they-50ced8323b9a](https://medium.com/@thomas.latterner/ai-agents-what-are-they-50ced8323b9a) | Overview of AI Agents |
 | Agents | [https://www.letta.com/blog/ai-agents-stack](https://www.letta.com/blog/ai-agents-stack) | The Agents Stack |
 | Agents | [https://www.mongodb.com/pt-br/library/resources/ai-agents?x=inokiP](https://www.mongodb.com/pt-br/library/resources/ai-agents?x=inokiP) | Demystifying AI Agents: A Guide for Beginners |
+
 
 
 ### Guardrails
