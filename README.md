@@ -105,8 +105,10 @@
 | Fine-tuning | [https://docs.unsloth.ai/basics/tutorial-how-to-finetune-llama-3-and-use-in-ollama](https://docs.unsloth.ai/basics/tutorial-how-to-finetune-llama-3-and-use-in-ollama)| Fine-tuning LLMs with Unsloth.ai |
 | Fine-tuning | [https://www.kaggle.com/code/iamleonie/fine-tuning-gemma-2-jpn-for-yomigana-with-lora](https://www.kaggle.com/code/iamleonie/fine-tuning-gemma-2-jpn-for-yomigana-with-lora)| Fine-tuning Gemma 2 JPN for Yomigana using LoRA |
 | Fine-tuning | [https://www.youtube.com/watch?v=b80by3Xk_A8](https://www.youtube.com/watch?v=b80by3Xk_A8)| Stanford’s Hugging Face Transformers fine-tuning course |
+| Fine-tuning | [https://arxiv.org/abs/2310.00035](https://arxiv.org/abs/2310.00035)| Usage of LoRA for LLM fine-tuning |
 | Fine-tuning | [https://arxiv.org/abs/2502.06807](https://arxiv.org/abs/2502.06807) | Large reasoning models: Generalized vs Domain-specific |
 | Fine-tuning | [https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Llama3.1_(8B)-GRPO.ipynb](https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Llama3.1_(8B)-GRPO.ipynb) | Using GRPO RL algorithm to train LLama-3.1 |
+
 
 ### Responsible AI
 
