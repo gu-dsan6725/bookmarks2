@@ -143,7 +143,10 @@
 | Deepseek | [https://github.com/deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) | Open-source AI code generation model |
 
 
-
+## Significant Papers in GenAI Pre-training and Fine-tuning
+| Paper  | Link  | Description  |
+|:----------|:----------|:----------|
+| Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation | https://arxiv.org/abs/2108.12409  https://github.com/ofirpress/attention_with_linear_biases.git | A training technique in Language Models to intensify their generalization ability |
 
 
 ## Contributing
