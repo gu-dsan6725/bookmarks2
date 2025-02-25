@@ -139,6 +139,7 @@
 | Paper  | Link  | Description  |
 |:----------|:----------|:----------|
 | Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation | https://arxiv.org/abs/2108.12409  https://github.com/ofirpress/attention_with_linear_biases.git | A training technique in Language Models to intensify their generalization ability |
+| FLAG-Trader: Fusion LLM-Agent with Gradient-based Reinforcement Learning for Financial Trading | https://arxiv.org/abs/2502.11433, their model gonna released on huggingface later | This paper mainly focus on the finaical area which used LLM as agent with gradient-driven RL policy optimization to make autonomous decision-making.
 
 
 ## Contributing
