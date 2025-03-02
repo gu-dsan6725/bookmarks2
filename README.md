@@ -41,7 +41,6 @@
 | LLM Basics | [https://github.com/vllm-project/aibrix/blob/main/docs/paper/AIBrix_White_Paper_0219_2025.pdf](https://github.com/vllm-project/aibrix/blob/main/docs/paper/AIBrix_White_Paper_0219_2025.pdf) | Scalable, Cost Effective LLM Inference Infrastructure |
 
 
-
 ### Prompt engineering
 
 | Category  | Link  | Description  |
@@ -87,13 +86,12 @@
 | Agents | [https://github.com/inferablehq](https://github.com/inferablehq) | Open-source platform for building agentic automations |
 | Agents | [https://www.newsletter.swirlai.com/p/building-ai-agents-from-scratch-part](https://www.newsletter.swirlai.com/p/building-ai-agents-from-scratch-part) | Guide to building AI agents from scratch |
 | Agents | [https://huyenchip.com//2025/01/07/agents.html](https://huyenchip.com//2025/01/07/agents.html) | Overview of intelligent AI agents, tools, and planning |
+| Agents | https://github.com/microsoft/AutoGen| Open-source library for building LLM agents.|
 | Agents | [https://github.com/huggingface/smolagents](https://github.com/huggingface/smolagents) | Build agents with a simple framework with the logic for agents fitting in ~thousand lines of code |
 | Agents | [https://medium.com/@thomas.latterner/ai-agents-what-are-they-50ced8323b9a](https://medium.com/@thomas.latterner/ai-agents-what-are-they-50ced8323b9a) | Overview of AI Agents |
 | Agents | [https://www.letta.com/blog/ai-agents-stack](https://www.letta.com/blog/ai-agents-stack) | The Agents Stack |
 | Agents | [https://www.mongodb.com/pt-br/library/resources/ai-agents?x=inokiP](https://www.mongodb.com/pt-br/library/resources/ai-agents?x=inokiP) | Demystifying AI Agents: A Guide for Beginners |
 | Agents | [https://arxiv.org/pdf/2308.08155](https://arxiv.org/pdf/2308.08155) | AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation |
-
-
 
 ### Guardrails
 
@@ -148,7 +146,9 @@
 | Apps | [https://github.com/BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) | Crawl a site to generate knowledge files |
 | Apps | [https://github.com/open-webui/open-webui](https://github.com/open-webui/open-webui) | Open-source web UI for LLM, Ollama |
 | Apps | [https://github.com/comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) | diffusion model GUI, api with a nodes interface |
+| Apps | https://github.com/chatscope/chat-ui-kit-react | React-based chat UI kit for building LLM apps |
 | Apps | [https://link-springer-com.proxy.library.georgetown.edu/article/10.1007/s10639-024-12537-x](https://link-springer-com.proxy.library.georgetown.edu/article/10.1007/s10639-024-12537-x) | Using GPT to generate math word problems with difficulty levels |
+
 
 
 ## Others
