@@ -73,8 +73,12 @@
 | RAG | [https://arxiv.org/pdf/2412.15605v1](https://arxiv.org/pdf/2412.15605v1) | Cache-augmented generation (CAG) as an alternative to RAG |
 | RAG | [https://div.beehiiv.com/](https://div.beehiiv.com/) | Great Blog Series on RAG, Agents, and Other Cutting-Edge Gen-AI Topics |
 | RAG | [https://www.anthropic.com/news/contextual-retrieval](https://www.anthropic.com/news/contextual-retrieval) | Introducing Contextual Retrieval |
+| RAG | [https://arxiv.org/pdf/2312.10997v3.pdf](https://arxiv.org/pdf/2312.10997v3.pdf) | Retrieval-Augmented Generation for Large Language Models: A Survey |
+| RAG | [https://arxiv.org/pdf/2312.10997v3.pdf](https://arxiv.org/pdf/2312.10997v3.pdf) | Retrieval-Augmented Generation for Large Language Models: A Survey |
+
 | RAG | [https://aws.amazon.com/what-is/retrieval-augmented-generation/](https://aws.amazon.com/what-is/retrieval-augmented-generation/) | AWS Introduction to RAG |
 | RAG | [https://arxiv.org/pdf/2312.10997](https://arxiv.org/pdf/2312.10997) | Retrieval-Augmented Generation for Large Language Models: A Survey |
+
 
 
 ### Agents
@@ -86,12 +90,14 @@
 | Agents | [https://github.com/inferablehq](https://github.com/inferablehq) | Open-source platform for building agentic automations |
 | Agents | [https://www.newsletter.swirlai.com/p/building-ai-agents-from-scratch-part](https://www.newsletter.swirlai.com/p/building-ai-agents-from-scratch-part) | Guide to building AI agents from scratch |
 | Agents | [https://huyenchip.com//2025/01/07/agents.html](https://huyenchip.com//2025/01/07/agents.html) | Overview of intelligent AI agents, tools, and planning |
+| Agents | [https://arxiv.org/pdf/2401.03568](https://arxiv.org/pdf/2401.03568) | Agent AI: Surveying the Horizons of Multimodal Interaction |
 | Agents | https://github.com/microsoft/AutoGen| Open-source library for building LLM agents.|
 | Agents | [https://github.com/huggingface/smolagents](https://github.com/huggingface/smolagents) | Build agents with a simple framework with the logic for agents fitting in ~thousand lines of code |
 | Agents | [https://medium.com/@thomas.latterner/ai-agents-what-are-they-50ced8323b9a](https://medium.com/@thomas.latterner/ai-agents-what-are-they-50ced8323b9a) | Overview of AI Agents |
 | Agents | [https://www.letta.com/blog/ai-agents-stack](https://www.letta.com/blog/ai-agents-stack) | The Agents Stack |
 | Agents | [https://www.mongodb.com/pt-br/library/resources/ai-agents?x=inokiP](https://www.mongodb.com/pt-br/library/resources/ai-agents?x=inokiP) | Demystifying AI Agents: A Guide for Beginners |
 | Agents | [https://arxiv.org/pdf/2308.08155](https://arxiv.org/pdf/2308.08155) | AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation |
+
 
 ### Guardrails
 
