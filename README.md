@@ -92,6 +92,7 @@
 | Agents | [https://github.com/inferablehq](https://github.com/inferablehq) | Open-source platform for building agentic automations |
 | Agents | [https://www.newsletter.swirlai.com/p/building-ai-agents-from-scratch-part](https://www.newsletter.swirlai.com/p/building-ai-agents-from-scratch-part) | Guide to building AI agents from scratch |
 | Agents | [https://huyenchip.com//2025/01/07/agents.html](https://huyenchip.com//2025/01/07/agents.html) | Overview of intelligent AI agents, tools, and planning |
+| Agents | [https://github.com/AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops?tab=readme-ov-file) | Building, evaluating, monitoring, and benchmarking AI agents through dashboards |
 | Agents | [https://arxiv.org/pdf/2401.03568](https://arxiv.org/pdf/2401.03568) | Agent AI: Surveying the Horizons of Multimodal Interaction |
 | Agents | https://github.com/microsoft/AutoGen| Open-source library for building LLM agents.|
 | Agents | [https://github.com/huggingface/smolagents](https://github.com/huggingface/smolagents) | Build agents with a simple framework with the logic for agents fitting in ~thousand lines of code |
