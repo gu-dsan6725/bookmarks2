@@ -36,9 +36,11 @@
 | LLM Basics | [https://stackoverflow.blog/2023/11/09/an-intuitive-introduction-to-text-embeddings/](https://stackoverflow.blog/2023/11/09/an-intuitive-introduction-to-text-embeddings/) | Introduction to text embeddings|
 | LLM Basics | [https://arxiv.org/abs/2501.00663](https://arxiv.org/abs/2501.00663) | Neural memory module for long-term sequence modeling|
 | LLM Basics | [https://x.com/Aurimas_Gr/status/1876635530302992875](https://x.com/Aurimas_Gr/status/1876635530302992875) | Neural memory module for long-term sequence modeling|
+| LLM Basics| [https://poloclub.github.io/transformer-explainer/] (https://poloclub.github.io/transformer-explainer/) | Interactive visualization tool explaining LLM Transformer architecture|
 | LLM Basics | [https://www.youtube.com/watch?v=h9Z4oGN89MU&t=663s](https://www.youtube.com/watch?v=h9Z4oGN89MU&t=663s) | Exploring GPU Architecture |
 | LLM Basics | [https://arxiv.org/pdf/2501.09636](https://arxiv.org/pdf/2501.09636) | Deployment of the mixture-of-experts mechanism in the stock investment domain|
 | LLM Basics | [https://github.com/vllm-project/aibrix/blob/main/docs/paper/AIBrix_White_Paper_0219_2025.pdf](https://github.com/vllm-project/aibrix/blob/main/docs/paper/AIBrix_White_Paper_0219_2025.pdf) | Scalable, Cost Effective LLM Inference Infrastructure |
+
 
 
 ### Prompt engineering
