@@ -38,6 +38,8 @@
 | LLM Basics | [https://x.com/Aurimas_Gr/status/1876635530302992875](https://x.com/Aurimas_Gr/status/1876635530302992875) | Neural memory module for long-term sequence modeling|
 | LLM Basics | [https://www.youtube.com/watch?v=h9Z4oGN89MU&t=663s](https://www.youtube.com/watch?v=h9Z4oGN89MU&t=663s) | Exploring GPU Architecture |
 | LLM Basics | [https://arxiv.org/pdf/2501.09636](https://arxiv.org/pdf/2501.09636) | Deployment of the mixture-of-experts mechanism in the stock investment domain|
+| LLM Basics | [https://github.com/vllm-project/aibrix/blob/main/docs/paper/AIBrix_White_Paper_0219_2025.pdf](https://github.com/vllm-project/aibrix/blob/main/docs/paper/AIBrix_White_Paper_0219_2025.pdf) | Scalable, Cost Effective LLM Inference Infrastructure |
+
 
 
 ### Prompt engineering
@@ -89,6 +91,7 @@
 | Agents | [https://medium.com/@thomas.latterner/ai-agents-what-are-they-50ced8323b9a](https://medium.com/@thomas.latterner/ai-agents-what-are-they-50ced8323b9a) | Overview of AI Agents |
 | Agents | [https://www.letta.com/blog/ai-agents-stack](https://www.letta.com/blog/ai-agents-stack) | The Agents Stack |
 | Agents | [https://www.mongodb.com/pt-br/library/resources/ai-agents?x=inokiP](https://www.mongodb.com/pt-br/library/resources/ai-agents?x=inokiP) | Demystifying AI Agents: A Guide for Beginners |
+| Agents | [https://arxiv.org/pdf/2308.08155](https://arxiv.org/pdf/2308.08155) | AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation |
 
 
 
@@ -161,6 +164,7 @@
 | Paper  | Link  | Description  |
 |:----------|:----------|:----------|
 | Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation | https://arxiv.org/abs/2108.12409  https://github.com/ofirpress/attention_with_linear_biases.git | A training technique in Language Models to intensify their generalization ability |
+| FLAG-Trader: Fusion LLM-Agent with Gradient-based Reinforcement Learning for Financial Trading | https://arxiv.org/abs/2502.11433, their model gonna released on huggingface later | This paper mainly focus on the finaical area which used LLM as agent with gradient-driven RL policy optimization to make autonomous decision-making.
 
 
 ## Contributing
