@@ -105,7 +105,10 @@
 
 | Category  | Link  | Description  |
 |:----------|:----------|:----------|
+| Guardrails | [https://github.com/ShreyaR/guardrails](https://github.com/ShreyaR/guardrails) | Python package for LLM filtering to prevent generating bad content  |
+| Guardrails | [https://www.microsoft.com/en-us/ai/responsible-ai](https://www.microsoft.com/en-us/ai/responsible-ai) | Empowering responsible AI practices |
 | Guardrails | [https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-are-ai-guardrails](https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-are-ai-guardrails) | Overview of guardrails: definition, utility, implementation ideas, deployment |
+
 
 ### Benchmarking
 
