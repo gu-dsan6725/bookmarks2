@@ -8,15 +8,26 @@
   <p>
     <a href="#gen-ai">Gen-AI</a> •
     <a href="#others">Others</a> •    
+    <a href="#significant-papers">Significant Papers</a> •
     <a href="#contributing">Contributing</a> •
     <a href="#license">License</a>
-  </p>
+</p>
 </div>
 
 ## Table of Contents
 
 1. [Gen-AI](#gen-ai)
+   - [LLM Basics](#llm-basics)
+   - [Prompt Engineering](#prompt-engineering)
+   - [RAG](#rag)
+   - [Agents](#agents)
+   - [Guardrails](#guardrails)
+   - [Benchmarking](#benchmarking)
+   - [Fine-tuning](#fine-tuning)
+   - [Responsible AI](#responsible-ai)
+   - [Apps](#apps)
 1. [Others](#others)
+1. [Significant Papers](#significant-papers)
 1. [Contributing](#contributing)
 1. [License](#license)
 
@@ -170,7 +181,7 @@
 | Deepseek | [https://github.com/deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) | Open-source AI code generation model |
 
 
-## Significant Papers in GenAI Pre-training and Fine-tuning
+## Significant Papers
 | Paper  | Link  | Description  |
 |:----------|:----------|:----------|
 | Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation | [Paper](https://arxiv.org/abs/2108.12409) • [GitHub](https://github.com/ofirpress/attention_with_linear_biases.git) | A training technique in Language Models to intensify their generalization ability |
