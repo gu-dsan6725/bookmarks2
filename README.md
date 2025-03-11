@@ -111,7 +111,7 @@
 | Agents | [https://www.letta.com/blog/ai-agents-stack](https://www.letta.com/blog/ai-agents-stack) | The Agents Stack |
 | Agents | [https://www.mongodb.com/pt-br/library/resources/ai-agents?x=inokiP](https://www.mongodb.com/pt-br/library/resources/ai-agents?x=inokiP) | Demystifying AI Agents: A Guide for Beginners |
 | Agents | [https://arxiv.org/pdf/2308.08155](https://arxiv.org/pdf/2308.08155) | AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation |
-| Agents | [https://arxiv.org/abs/2308.01552](https://arxiv.org/abs/2308.01552) | Exploring the Potentials of ChatGPT as a Cooperative Agent |
+| Agents | [https://arxiv.org/abs/2308.01552](https://arxiv.org/abs/2308.01552) | Exploring the potentials of ChatGPT as a cooperative agent |
 
 
 ### Guardrails
